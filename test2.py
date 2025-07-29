@@ -1,1 +1,1 @@
-print ("first line on branch feature/init")
+print ("first line on branch feature/new2")
